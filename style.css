@@ -1,0 +1,9 @@
+: root{
+    --cinza:#aaa;
+    --vermelho-escuro:rgb(170, 0, 0);
+    --vermelho: red;
+    --branca: white;
+    --rosa: pink;
+    --azul: blue;
+    
+}
