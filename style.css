@@ -7,3 +7,19 @@
     --azul: blue;
     
 }
+
+body{
+    background-color: var(--vermelho);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Gene;
+    min-height: ;
+}
+
+h1{
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: var(--branca);
+}
