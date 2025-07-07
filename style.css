@@ -15,7 +15,7 @@ body{
     justify-content: center;
     flex-direction: column;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Gene;
-    min-height: ;
+    min-height: 1000vh;
 }
 
 h1{
